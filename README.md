@@ -14,7 +14,7 @@ The company wants to know:
 
 ## Table of Contents
 * [General Info](#general-information)
-* * [Conclusions](#conclusions)
+* [Conclusions](#conclusions)
 * [Technologies Used](#technologies-used)
 
 
