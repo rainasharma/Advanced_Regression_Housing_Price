@@ -26,7 +26,9 @@ We need to analyze how ridge & lasso preven the overfit & underfit of the model 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 ## Conclusions
-Ridge & lasso helps to prevent overfit & underfit as well for ridge the optimal lambda is 5 & lasso optimal lambda is 0.0001.
+Ridge & lasso helps to prevent overfit & underfit .
+* Optimal Lambda for Ridge Regression : 5
+* Optimal Lambda for Lasso Regression : 0.0001.
 <h2>Model Outcome Summary</h2>
 After compairing linear regression , ridge and lasso regression the below mentioned Features are considered best explaining the Dataset.
 
