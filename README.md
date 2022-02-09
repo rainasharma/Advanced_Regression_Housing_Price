@@ -26,7 +26,7 @@ We need to analyze how ridge & lasso preven the overfit & underfit of the model 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 ## Conclusions
-Ridge & lasso helps to prevent overfit & underfit as well for ridge the optimal lambda is 10 & lasso optimal lambda is 0.001
+Ridge & lasso helps to prevent overfit & underfit as well for ridge the optimal lambda is 5 & lasso optimal lambda is 0.0001
 
 ## Technologies Used
 - Python Libraries - Numpy, Pandas
